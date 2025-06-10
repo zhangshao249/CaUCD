@@ -1,0 +1,1 @@
+Place vitb14_reg4_pretrain.pth in this directory.

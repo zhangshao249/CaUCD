@@ -1,0 +1,1 @@
+Place SECOND.zip and SYSU-CD.zip in this directory, and unzip them in this diretory.
